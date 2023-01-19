@@ -7,7 +7,7 @@ namespace CSharp_I_should_know.EP1WhyIChooseCSharp
         void GoToEP1();
     }
 
-    public class EP1 : IEP1
+    public class Introduce : IEP1
     {
         public void GoToEP1()
         {
